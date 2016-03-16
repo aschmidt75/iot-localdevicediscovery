@@ -1,0 +1,13 @@
+{
+  "datacenter": "local",
+  "data_dir": "/tmp/consul",
+  "log_level": "INFO",
+  "node_name": "photon-discovery-node",
+  "server": true,
+  "bind_addr": "127.0.0.1",
+  "domain": "localiotdev",
+  "ui": true,
+  "ui_dir": "./",
+  "bootstrap": true
+}
+
